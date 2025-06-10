@@ -1,0 +1,244 @@
+[[Qt6QuickTimeline]]
+arch = "aarch64"
+git-tree-sha1 = "3ce91c43db2790223988b10e46b1f28f002172b2"
+os = "macos"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "bf9e9ec4ad857e822a543239265ab2b65b59d31fc3cbdaa623dc315ff3a6dec0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.aarch64-apple-darwin.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+git-tree-sha1 = "8e041fe7fde4a5640607c549c48ac72c55c214d8"
+os = "macos"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "e9e76cc5d316f97c10b5bbbb8335b0feac10198eed27a0acd7201c615eba94e3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-apple-darwin.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a276ff3e53a93b0bed9412f37027131689a137e0"
+os = "windows"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "c96f9771806ad123a403620b4e4b4731687ea01b7b2f9baa3138ee62f916eb18"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7474c2414b34ef9c5896de8c17e78feeb980e3a5"
+os = "windows"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "ad70a591c1a42aec6cb2486017e104962472134bb7ecc5252d89a5e88901bae0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc89e7d8bdfe549dc250f8ea49597be27a70a7e6"
+os = "windows"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "baec1623d306ef28a11f43289c44487ab47e254aac0abc174b454a5507f4814e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fe83d29b9df038c113d29afc423a3257fb5196b"
+os = "windows"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "5ccd17b58373b0e66f2d28d6d851756e7fe5f5db31b790a5c45ca975263cf5df"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "971fc6dd228078b586e6d91dc66109f2df82c06e"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "205c96baf5730eee9a74a0f383e87921bb1a4d7755fa5874686a56c281169ff8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74ab528a2e3d89628235066aa9c16b9358ea890c"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "1d0dcee26778002e38d503fde49d0d2021dd4c72cdb939f1e5a1e5343993afd1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe383e5b7b652dc534d9bd4cb56a97b315dbc088"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "21f183d2a9d0b2aa86947892ac05fa72c9272ae5d5c633135ba704480bf083dd"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2241b0ef133d7e06a7418a1ef7242efe0dec6f8"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "df1872aba21f901a20a76fc2f1dbc1d65f58979be76fca01af787ae9f432211c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "026bbb937e5ce9703bcee7bf8e294aa879a8dc12"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "85a90ac28b237bbc8170b74807b7677bf3d0db6d2452ea70ce242fcfabf0f3a0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b79cf118d0c0c1118abce29b3e365680523300a5"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "f358d2469dd54b5ac3eebe979fd5bd2a2f93c5eea2ff27e5d0563d1801decab6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29055842c986d8bef00107693893131f30658e74"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "712e6c58e8684cc718534a2a89702e4221ee18487cc72001d6b0e3af350bd220"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6efc4fecc6d0173dadf4c421b1fa421316d753ae"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "8ac41634422f6e98eb1f274125232bf0d1b92be3076e8c84d6a2557dd46850fc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "071aad1eb84267e558748f714bc6cc6d9260f80d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "a11bdbcfd5404a5debfbca766f894d7cca87ca07f80509d684fc41ba11b740c7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8712521d592f851bb036a97ccdd76f97311bfc55"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "78214cb443abd236fab0b430764cfc46d6b0b847f51e1fa3ad0c98e537bea7a6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "641846e9c8413634f560663319250452dd766d91"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "8d0a3165122d8171733372f03358c5d1fbffd91c7cc18cc0e19946e001fb23d1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc33ba76e15d78edac52514bde0be966f8d5584b"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "bf0e0cf3df17da252f314e068c67155a057e6b78f1da87ddcb5a50cf0bf7c267"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b16cfdab8199abbce45230d10acd9544475f4beb"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "e3cf7b2f00bbf0308239fe0551da393943aa0bc4a61ffc1f05142ff34ccc8315"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4a29ab548d90e56ef95f1078f5f26c374a61add"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "d57c334a53030f85b0e4463b385bbd2adade349b8fbbe065dbc631c5e9d39818"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81d8bbeb6130962e99cdb21c46bef8ee73ae2806"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "59473605686e9fca15862f511f6d2dc9508ce245b788a930ac9b10d322177014"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b4dd29acb42e1d8e16214d8e4778a680fbf078d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "189fda29d959a7fe2a482c2da7fcce1a880a9c7131411d634be471e4daa23dc9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ffb86eb3543d2019c2942a21a0f42296e4ecd275"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "d41cbe4f7d179f76a4a2ed6c9ef6774b350662091a21fafc223b2851f5c3443b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9e1e9a0f459dbe2b0bae3a1f8b4e5a34dee8fe1"
+libc = "musl"
+os = "linux"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "248a4ac4dc86b5730db4d0f9f9a736b6f1f0056cfb68078dae16fa3daf75ec0b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6QuickTimeline]]
+arch = "x86_64"
+git-tree-sha1 = "be7ca470ffc292935e5cee0130d9ade75c1beb94"
+os = "freebsd"
+
+    [[Qt6QuickTimeline.download]]
+    sha256 = "c23e05e5258cd5d26cf04b6afa5726f87cebd1f0fc46b4b2ac77d832cb801aaf"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6QuickTimeline_jll.jl/releases/download/Qt6QuickTimeline-v6.8.2+0/Qt6QuickTimeline.v6.8.2.x86_64-unknown-freebsd.tar.gz"
