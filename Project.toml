@@ -1,6 +1,6 @@
 name = "Qt6QuickTimeline_jll"
 uuid = "aaa24d55-1a42-52ef-a112-65a2da50b610"
-version = "6.8.2+0"
+version = "6.8.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
